@@ -15,4 +15,5 @@ blueprint-storage.dat
 crop-cache.dat
 config-path.cfg
 factorio-current.log
+factorio-previous.log
 player-data.json
