@@ -9,10 +9,10 @@ doc-html/
 
 temp/
 
-*.dat
-
+achievements.dat
+achievements-modded.dat
+blueprint-storage.dat
+crop-cache.dat
 config-path.cfg
-
 factorio-current.log
-
 player-data.json
