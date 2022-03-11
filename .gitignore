@@ -11,7 +11,8 @@ temp/
 
 saves/*
 !saves/Solo
-!saves/Multi
+saves/Solo/*
+!saves/Solo/Saira Bob and Angel.zip
 
 achievements.dat
 achievements-modded.dat
